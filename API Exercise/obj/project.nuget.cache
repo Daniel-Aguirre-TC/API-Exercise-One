@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GrlsOe7rGM4ejYfJJvi+v4EjShCvez6N1RpkgQlKIHAthA85puBO2qc1qAsM/xuUmFcFtoJ4uC1DU4GM1/4zHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Second-Desktop\\repos\\API Exercise\\API Exercise\\API Exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Second-Desktop\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
